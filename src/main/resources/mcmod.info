@@ -1,0 +1,16 @@
+[
+{
+  "modid": "myaccount",
+  "name": "MyAccount",
+  "description": "Management for Discord and Minecraft account.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Team-Fruit/MyAccount",
+  "updateUrl": "https://github.com/Team-Fruit/MyAccount/releases",
+  "authorList": ["Kamesuta"],
+  "credits": "2019 TeamFruit",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
